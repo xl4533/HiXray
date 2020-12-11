@@ -37,7 +37,7 @@ In this project, we build the largest High-quality X-ray Security Inspection dat
 - HiXray dataset contains a total of 45364 X-ray images(36295 for training, 9069 for testing), including 8 categories of cutters, namely, 'Portable_Charger_1','Portable_Charger_2','Mobile_Phone','Laptop','Tablet','Cosmetic','Water','Nonmetallic_Lighter'
 
 	<div align=center>
-	    <img src="images/statistics.png" width="50%" height="50%"/>
+	    <img src="images/statistics.png"/>
 	</div>
 
 - The information structure of annotation file is as follows: 
@@ -55,13 +55,13 @@ In this project, we build the largest High-quality X-ray Security Inspection dat
 Comparing with Feature Pyramid Mechanisms:
 
 <div align=center>
-    <img src="images/results_table5.png" width="50%" height="50%"/>
+    <img src="images/results_table5.png"/>
 </div>
 
 Visualization of the performance of both the baseline SSD and the MuBo-integrated model:
 
 <div align=center>
-    <img src="images/performance.png" width="80%" height="50%"/>
+    <img src="images/performance.png"/>
 </div>
 
 ## License
