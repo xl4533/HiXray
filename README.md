@@ -9,7 +9,7 @@ This repository is the official **HiXray dataset**.
 #### HiXray dataset:
 
 <div align=center>
-    <img src="images/samples.png" width="50%" height="50%"/>
+    <img src="images/samples.png"/>
 </div>
 
 [![license](https://img.shields.io/github/license/:user/:repo.svg)](LICENSE)
@@ -45,7 +45,7 @@ In this project, we build the largest High-quality X-ray Security Inspection dat
 	
 - Comparison of existing open-source X-ray datasets:
 	<div align=center>
-	    <img src="images/dataset_comparison.png" width="80%" height="50%"/>
+	    <img src="images/dataset_comparison.png"/>
 	</div>
 ## Install
 1. Access HiXray dataset
